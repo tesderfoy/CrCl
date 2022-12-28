@@ -18,3 +18,10 @@ Scene Builder - это инструмент, с помощью которого 
 JavaFX - платформа на основе Java для создания приложений с насыщенным графическим интерфейсом
 
 Java - cтрого типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems.
+
+## Установка приложения
+[Руководство пользователя](https://docs.google.com/document/d/1E19pQrn9ZiJoYec1_XfY8Sm1cdcIwwEY/edit)
+
+## Разработчики
+Разработчиком является [Денис](https://github.com/tesderfoy)
+## [Wiki](https://github.com/tesderfoy/CrCl/wiki)
